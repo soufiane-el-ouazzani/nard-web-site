@@ -1,0 +1,36 @@
+body{
+    border:0;
+    margin: 0;
+    background-color: aqua;
+}
+
+.title {
+    font-size: 6rem;
+    text-align: center;
+    font-family: cursive;
+
+}
+
+a {
+    text-decoration: none;
+    
+}
+h3 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.img_de {
+    height: 20rem;
+}
+
+.box1 {
+    margin-right: 20rem;
+    float: right;
+
+}
+
+.box2 {
+    margin-left: 20rem;
+    float: left;
+}
